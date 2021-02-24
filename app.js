@@ -1,2 +1,9 @@
 console.log("Hello World");
-
+<html>
+	<meta charset="UTF-8">
+	<meta name= "description" content="gitのレクチャー">
+	<title>gitレクチャー</title>
+	<body>
+		<script type="text/javascript" src="./app.js"></script>
+	</body>
+</html>
